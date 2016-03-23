@@ -1,6 +1,6 @@
 <html>
- <body bgcolor="#FFF66C">
-  <h1> Version 4.0 <h1>
+ <body bgcolor="#44D5F9">
+  <h1> Version 5.0 <h1>
   <h2> Sample PHP App <h2>
   <h2> Deployed with Capistrano <h2>
     <?php
